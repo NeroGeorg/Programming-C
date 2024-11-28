@@ -1,0 +1,3 @@
+/home/gosha/Документы/programming-c/lab10/build/CMakeFiles/lab10.dir
+/home/gosha/Документы/programming-c/lab10/build/CMakeFiles/edit_cache.dir
+/home/gosha/Документы/programming-c/lab10/build/CMakeFiles/rebuild_cache.dir
