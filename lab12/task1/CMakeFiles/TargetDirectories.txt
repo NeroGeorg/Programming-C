@@ -1,9 +1,0 @@
-/home/jorik/Документы/programming-c/lab12/task1/CMakeFiles/task1.dir
-/home/jorik/Документы/programming-c/lab12/task1/CMakeFiles/edit_cache.dir
-/home/jorik/Документы/programming-c/lab12/task1/CMakeFiles/rebuild_cache.dir
-/home/jorik/Документы/programming-c/lab12/task1/pipes/CMakeFiles/pipes.dir
-/home/jorik/Документы/programming-c/lab12/task1/pipes/CMakeFiles/edit_cache.dir
-/home/jorik/Документы/programming-c/lab12/task1/pipes/CMakeFiles/rebuild_cache.dir
-/home/jorik/Документы/programming-c/lab12/task1/background/CMakeFiles/background.dir
-/home/jorik/Документы/programming-c/lab12/task1/background/CMakeFiles/edit_cache.dir
-/home/jorik/Документы/programming-c/lab12/task1/background/CMakeFiles/rebuild_cache.dir
