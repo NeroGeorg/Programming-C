@@ -18,4 +18,5 @@
 
 int main(int, char**){
     printf("Hello, from sort!\n");
+    printf("qwerty\n");
 }
