@@ -17,6 +17,6 @@
 // }
 
 int main(int, char**){
-    printf("Hello, from sort!\n");
+    printf("Hello, from sort!\n"); //werwerwerwerwerwer
     printf("qwerty\n"); //qweqweqweqweqwe
 }
