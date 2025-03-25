@@ -3,11 +3,16 @@
 #include <wchar.h>
 #include <locale.h>
 
-int main(){
-    setlocale(LC_ALL, "ru_RU.UTF-8"); 
+int main(int argc, char *argv[]){
+    setlocale(LC_ALL, "ru_RU.UTF-8");
+
+    if (argc != 2){
+        fprintf(stderr, "Use: %d <file.txt>\n", argv[0]);
+        return EXIT_FAILURE;
+    }
 
     FILE *file;
-    file = fopen("/home/jorik/Документы/Programming-C/semestr2/lab4/my_file.txt", "r");
+    file = fopen(argv[1], "r");
     if (file == NULL) {
         perror("Error opening file");
         exit(1);
