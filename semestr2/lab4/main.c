@@ -7,7 +7,7 @@ int main(int argc, char *argv[]){
     setlocale(LC_ALL, "ru_RU.UTF-8");
 
     if (argc != 2){
-        fprintf(stderr, "Use: %d <file.txt>\n", argv[0]);
+        printf("Use: %s <file.txt>\n", argv[0]);
         return EXIT_FAILURE;
     }
 
