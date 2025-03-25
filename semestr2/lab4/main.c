@@ -21,7 +21,7 @@ int main(){
         line_number++;
         wprintf(L"%d.  %ls", line_number, words);
 
-        size_t len = wcslen(words);
+        int len = wcslen(words);
         if (len > 0 && words[len - 1] == L'\n') {
             words[len - 1] = L'\0';
             len--;
