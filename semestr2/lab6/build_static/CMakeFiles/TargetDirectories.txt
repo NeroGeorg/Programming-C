@@ -1,0 +1,4 @@
+/home/jorik/Документы/Programming-C/semestr2/lab6/build_static/CMakeFiles/train_lib.dir
+/home/jorik/Документы/Programming-C/semestr2/lab6/build_static/CMakeFiles/main_program.dir
+/home/jorik/Документы/Programming-C/semestr2/lab6/build_static/CMakeFiles/edit_cache.dir
+/home/jorik/Документы/Programming-C/semestr2/lab6/build_static/CMakeFiles/rebuild_cache.dir
