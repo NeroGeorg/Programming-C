@@ -1,1 +1,1 @@
-Repository with C lab!
+Repository with C labs!
