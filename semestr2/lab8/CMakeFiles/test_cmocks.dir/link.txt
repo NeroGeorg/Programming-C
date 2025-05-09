@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_cmocks.dir/tests/test_cmocka.c.o -o test_cmocks  -lcmocka

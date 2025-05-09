@@ -1,0 +1,35 @@
+Start testing: May 09 19:58 +07
+----------------------------------------------------------
+1/1 Testing: SortingTests
+1/1 Test: SortingTests
+Command: "/home/jorik/Документы/Programming-C/semestr2/lab8/test_cmocka"
+Directory: /home/jorik/Документы/Programming-C/semestr2/lab8
+"SortingTests" start time: May 09 19:58 +07
+Output:
+----------------------------------------------------------
+[==========] tests: Running 7 test(s).
+[ RUN      ] test_swap_function
+[       OK ] test_swap_function
+[ RUN      ] test_generate_array_descending
+[       OK ] test_generate_array_descending
+[ RUN      ] test_generate_array_ascending
+[       OK ] test_generate_array_ascending
+[ RUN      ] test_quick_sort_basic
+[       OK ] test_quick_sort_basic
+[ RUN      ] test_quick_sort_already_sorted
+[       OK ] test_quick_sort_already_sorted
+[ RUN      ] test_quick_sort_reverse_sorted
+[       OK ] test_quick_sort_reverse_sorted
+[ RUN      ] test_quick_sort_stats
+[       OK ] test_quick_sort_stats
+[==========] tests: 7 test(s) run.
+[  PASSED  ] 7 test(s).
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SortingTests" end time: May 09 19:58 +07
+"SortingTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 09 19:58 +07
